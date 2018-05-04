@@ -11,6 +11,6 @@ describe('generator-react-redux-storybook:app', () => {
   });
 
   it('creates files', () => {
-    assert.file(['dummyfile.txt']);
+    assert.file(['dest/dummyfile.txt']);
   });
 });
