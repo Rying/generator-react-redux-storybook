@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "yren",
+      "authorEmail": "yren@thoughtworks.com",
+      "authorUrl": ""
+    }
+  }
+}
